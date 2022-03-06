@@ -5,7 +5,7 @@ public class perfectSquare {
         Scanner in = new Scanner(System.in);
         int num = in.nextInt();
         System.out.println(isPerfectSquare(num));
-        
+        in.close();
     }
         public static boolean isPerfectSquare(int num) {
             if(num<1)
