@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class AllDuplicates {
     public List<Integer> findDuplicates(int[] nums){
         int i = 0;
