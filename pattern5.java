@@ -1,3 +1,8 @@
+/*printing   
+    1
+   212
+  32123
+ 4321234*/
 public class pattern5 {
     public static void main(String[] args) {
         pattern11(4);
